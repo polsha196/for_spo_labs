@@ -1,0 +1,19 @@
+h1 { 
+    font-size: 200%; 
+    font-family: Aubrey Pro, Helvetica, sans-serif; 
+    color:white;
+    text-align:center;
+   }
+   h2 { 
+    font-size: 150%; 
+    font-family: Aubrey Pro, Helvetica, sans-serif; 
+    color:white;
+    text-align:center;
+   }
+   body {
+    background-color: #4fab9f;
+   }
+   div
+   {
+   text-align: middle;
+   }
